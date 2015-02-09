@@ -3,4 +3,5 @@ Worklist Management System
 *******************************************
 This is not in a functioning state yet.
 *******************************************
-https://trello.com/b/O8dPDBrz/wms
+Website: https://sites.google.com/site/worklistmanagementsystem
+To Do Board: https://trello.com/b/O8dPDBrz/wms
